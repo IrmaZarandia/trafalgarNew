@@ -132,8 +132,11 @@
 .lastPart div{
     margin-top: 32px;
 }
-.containerNR .lastPart .googleFacebookLogo{
-    gap: 19.04px;
+.google{
+    margin-right: 10px;
+}
+.fb{
+    margin-left: 10px;
 }
 .lastPart img{
     width: 41.57px;
