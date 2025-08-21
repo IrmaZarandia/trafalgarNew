@@ -77,7 +77,7 @@
 }
 .headerNR{
     font-size: 32px;
-} 
+}
 .containerNR label{
     font-size: 12px;
     font-weight: bold;
@@ -91,6 +91,11 @@
     border: 1px solid rgba(0, 0, 0, 0.4);
     border-radius: 12px;
     margin-right: 22px;
+}
+.required::after{
+    content: " *";
+    font-size: 18px;
+    color: red;
 }
 .NRname label[for="fName"]{
     margin-right: 193px;
