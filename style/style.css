@@ -156,15 +156,24 @@
     color:blue;
 }
 .signUpWith{
+    display: flex;
+    align-items: center;
     font-size: 13.86px;
     color: rgba(0, 0, 0, 0.44);
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.signUpWith p{
+    padding: 5px;
+}
+.signUpWith .line{
+    width: 60px;
+    height: 0.5px;
+    background-color: rgba(0, 0, 0, 0.44);
 }
 .alreadyAMember{
     font-size: 16px;
     color: rgba(0, 0, 0, 0.44);
 }
-
 
 
 .ourSevices .container{
@@ -187,6 +196,9 @@
 .textOurservices h1{
     text-align: center;
 }
+
+
+
 
 
 /* menius awyoba flex is gareshe */
