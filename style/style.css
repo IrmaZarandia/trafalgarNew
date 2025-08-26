@@ -214,13 +214,104 @@
     margin-right: 293px;
     top:1071px;
 }
-/*
-.boxes1{
-    display: flex;
-    width: 350px;
-    height: 354px;
-  
-}*/
+.tracking img{
+    position: absolute;
+    width: 69.42px;
+    height: 95px;
+    left: 1080px;
+    top: 1654px;
+}
+.tracking h3{
+    position: absolute;
+    width: 99px;
+    height: 56px;
+    left: 1080.36px;
+    top: 1768.41px;
+}
+.tracking p{
+    position: absolute;
+    width: 261px;
+    height: 56px;
+    left: 1081px;
+    top: 1825px;
+}
+.emergencyCare img{
+    position: absolute;
+    width: 80px;
+    height: 71.15px;
+    left: 696px;
+    top: 1661px;
+}
+.emergencyCare h3{
+    position: absolute;
+    width: 182px;
+    height: 56px;
+    left: 694px;
+    top: 1768.41px;
+}
+.emergencyCare p{
+    position: absolute;
+    width: 266px;
+    height: 84px;
+    left: 695px;
+    top: 1825.21px;
+}
+.detailsInfo img{
+    position: absolute;
+    width: 67.08px;
+    height:95px;
+    left:311.64px;
+    top:1648px;
+} 
+.detailsInfo img{
+    position: absolute;
+    width: 67.08px;
+    height:95px;
+    left:311.64px;
+    top:1648px;
+} 
+.detailsInfo h3{
+    position: absolute;
+    width: 130px;
+    height:56px;
+    left:310px;
+    top:1768.41px;
+} 
+.detailsInfo p{
+    position: absolute;
+    width: 261px;
+    height:84px;
+    left:310.64px;
+    top:1825px;
+}
+.consultation img{
+    position: absolute;
+    width: 67.29px;
+    height:95px;
+    left:1080px;
+    top:1258px; 
+}
+.consultation p{
+    position: absolute;
+    width: 67.29px;
+    height:95px;
+    left: 1080px;
+    top: 1258px;
+}
+.consultation h3{
+    position: absolute;
+    width: 145px;
+    height:56px;
+    left:1090.28px;
+    top:1386.41px;
+}
+.consultation p{
+    position: absolute;
+    width: 261px;
+    height:84px;
+    left:1081px;
+    top:1434px;
+}
 .searchDoctor img{
     position:absolute;
     width: 91.98px;
@@ -263,34 +354,8 @@
     left: 693px;
     top:1434px;
 
-.consultation img{
-    position: absolute;
-    width: 67.29px;
-    height:95px;
-    left:1080px;
-    top:1258px;
-}
-.consultation h3{
-    position: absolute;
-    width: 145px;
-    height:56px;
-    left:1090.28px;
-    top:1386.41px;
-}
-.consultation p{
-    position: absolute;
-    width: 261px;
-    height:84px;
-    left:1081px;
-    top:1434px;
-}
-.deailsInfo img{
-    position: absolute;
-    /*width: 67.08px;
-    height:95px;*/
-    left:311.64px;
-    top:1648px;
-}
+
+
 
 
 /* menius awyoba flex is gareshe */
