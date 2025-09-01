@@ -278,13 +278,24 @@
     border-color:#458FF6;
     margin-top: 60px;
     color: #458FF6;
+    font-size: 18px;
+}
+.arrow{
+    width: 15.43px;
+    height: 9.43px;
+    fill: #458FF6;
 }
 
 .info-section2 p{
     margin-top: 59px;
 
 }
-
+.button2{
+    display: flex;
+    gap: 20.54px;
+    justify-content: center;
+    align-items: center;
+}
 .info-section2 .line{
     position: absolute;
     margin-left: 270px;
