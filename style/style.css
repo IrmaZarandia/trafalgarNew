@@ -352,28 +352,19 @@
     background-color: white;
     margin-top:25px;
 }
-
-.customer .box3 .personalInfo{
+.box3 .personalInfo{
     display: flex;
-    flex-direction: row;
-    margin-top: 116px;
     margin-left: 118px;
     gap: 29px;
+    align-items: center;
+    margin-top: 116px;
 }
 .name{
     font-size: 22px;
     font-weight: bold;
     color: white;
-    margin-bottom: 139px;
     width: 183px;
     height: 48px;
-}
-.position{
-    font-size: 18px;
-    font-weight: normal;
-}
-.personalInfo .name{
-    margin-top: 31px;
 }
 .personalInfo .boxPar{
     width: 420px;
@@ -382,6 +373,7 @@
     color: white;
     margin-left: 82px;
 }
+
 
 
 
