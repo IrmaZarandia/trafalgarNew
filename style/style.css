@@ -3,9 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.main-header{
+    width: 100%;
+}
 .container{
-    width: 1600px;
-    height: 143px;
+    /*width: 1600px;
+    height: 143px;*/
+    width: 80%;
     background-color:bisque 
 }
 .main-header .container{
@@ -26,6 +30,7 @@
     list-style-type: none;
 }
 .main-header .mainNavigation ul li a{
+    font-family: 'Mulish';
     color: black;
     font-size: 18px;
     text-decoration: none;
@@ -46,12 +51,14 @@
 .info-section .container .section-title{
     margin-left: 192px;
     font-size: 48px;
+    font-family: 'Mulish';
     width: 426px;
     height: 112px
 }
 .info-section .container p{
     margin-left: 192px;
     font-size: 21px;
+    font-family: 'Mulish';
     color: #7D7987;
     width: 445px;
     height: 96px;
@@ -63,6 +70,7 @@
     background-color: #458FF6;
     border-radius: 55px;
     border-color:#458FF6;
+    font-family: 'Mulish';
     color: white
 }
 .image-container{
